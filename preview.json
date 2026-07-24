@@ -1,0 +1,19 @@
+{
+  "ring": "preview",
+  "latestVersion": "0.15.6",
+  "minimumVersion": "0.15.3",
+  "schemaVersion": 1,
+  "platforms": {
+    "win-arm64": {
+      "installerUrl": "https://aka.ms/discovery/download/arm64/current",
+      "sha256": "f3dff96a8152bcc0b58af2224eb80aa1c16175c61406e601a08f839f4e52d8d2"
+    },
+    "win-x64": {
+      "installerUrl": "https://aka.ms/discovery/download/current",
+      "sha256": "0146e2c937d8fc93b55a82f995f480c56387df79ab4072d44378d4153847381c"
+    }
+  },
+  "releaseNotesUrl": "",
+  "releaseNotesSummary": "",
+  "releasedAt": "2026-07-15T11:52:58Z"
+}

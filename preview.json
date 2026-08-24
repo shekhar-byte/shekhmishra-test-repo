@@ -1,6 +1,6 @@
 {
   "ring": "preview",
-  "latestVersion": "0.15.6",
+  "latestVersion": "0.15.11",
   "minimumVersion": "0.15.3",
   "schemaVersion": 1,
   "platforms": {
@@ -13,7 +13,7 @@
       "sha256": "0146e2c937d8fc93b55a82f995f480c56387df79ab4072d44378d4153847381c"
     }
   },
-  "releaseNotesUrl": "",
-  "releaseNotesSummary": "",
-  "releasedAt": "2026-07-15T11:52:58Z"
+  "releaseNotesUrl": "https://github.com/shekhar-byte/shekhmishra-test-repo/blob/main/release-notes/0.15.11.md",
+  "releaseNotesSummary": "Release notes now appear after installation and upgrades, with direct access from update notifications.",
+  "releasedAt": "2026-08-24T09:26:17Z"
 }

@@ -1,19 +1,23 @@
 {
   "ring": "preview",
-  "latestVersion": "0.15.11",
-  "minimumVersion": "0.15.3",
+  "latestVersion": "0.15.16",
+  "minimumVersion": "0.15.13",
   "schemaVersion": 1,
   "platforms": {
+    "osx-arm64": {
+      "installerUrl": "https://aka.ms/discovery/download/osx/current",
+      "sha256": "a1601ea1648c24b400e16aeac058003e813c1f6e4bf12b12a2764c0fd0090a49"
+    },
     "win-arm64": {
       "installerUrl": "https://aka.ms/discovery/download/arm64/current",
-      "sha256": "f3dff96a8152bcc0b58af2224eb80aa1c16175c61406e601a08f839f4e52d8d2"
+      "sha256": "5af3224070b22baebcd28bdc396442372e0b8c1c3a5ab309c22c907cab97de2d"
     },
     "win-x64": {
       "installerUrl": "https://aka.ms/discovery/download/current",
-      "sha256": "0146e2c937d8fc93b55a82f995f480c56387df79ab4072d44378d4153847381c"
+      "sha256": "a34cb56eb9063172a4c477f6607b6cc55f9961c40bed7f31fe0305ece1229c94"
     }
   },
-  "releaseNotesUrl": "https://github.com/shekhar-byte/shekhmishra-test-repo/blob/main/release-notes/0.15.11.md",
-  "releaseNotesSummary": "Release notes now appear after installation and upgrades, with direct access from update notifications.",
-  "releasedAt": "2026-08-24T09:26:17Z"
+  "releaseNotesUrl": "",
+  "releaseNotesSummary": "",
+  "releasedAt": "2026-09-24T13:29:50Z"
 }

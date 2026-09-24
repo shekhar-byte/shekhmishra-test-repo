@@ -1,7 +1,7 @@
 {
   "ring": "preview",
-  "latestVersion": "0.15.16",
-  "minimumVersion": "0.15.13",
+  "latestVersion": "0.15.17",
+  "minimumVersion": "0.15.14",
   "schemaVersion": 1,
   "platforms": {
     "osx-arm64": {

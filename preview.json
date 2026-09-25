@@ -6,15 +6,15 @@
   "platforms": {
     "osx-arm64": {
       "installerUrl": "https://aka.ms/discovery/download/osx/current",
-      "sha256": "a1601ea1648c24b400e16aeac058003e813c1f6e4bf12b12a2764c0fd0090a49"
+      "sha256": "22540a382a333eecaf423b81d41e64dde09cbbe51c1226514e1869b3b8ed4d42"
     },
     "win-arm64": {
       "installerUrl": "https://aka.ms/discovery/download/arm64/current",
-      "sha256": "5af3224070b22baebcd28bdc396442372e0b8c1c3a5ab309c22c907cab97de2d"
+      "sha256": "b6c87f2b6d50c8cda633dab2d8eaaba31c6c763170e747c7edbc4f562e4c8619"
     },
     "win-x64": {
       "installerUrl": "https://aka.ms/discovery/download/current",
-      "sha256": "a34cb56eb9063172a4c477f6607b6cc55f9961c40bed7f31fe0305ece1229c94"
+      "sha256": "cda4ed367edd013922404a995aba8ef337a2ee2b622e06eb146ec8f43780cbbe"
     }
   },
   "releaseNotesUrl": "",

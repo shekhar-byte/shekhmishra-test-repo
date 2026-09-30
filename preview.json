@@ -2,7 +2,7 @@
   "ring": "preview",
   "latestVersion": "0.15.16",
   "minimumVersion": "0.15.13",
-  "schemaVersion": 2,
+  "schemaVersion": 1,
   "platforms": {
     "osx-arm64": {
       "installerUrl": "https://aka.ms/discovery/download/osx/current",

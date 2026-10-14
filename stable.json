@@ -3,8 +3,13 @@
   "latestVersion": "0.15.20",
   "minimumVersion": "0.0.0",
   "schemaVersion": 1,
-  "platforms": {},
+  "platforms": {
+    "osx-arm64": {
+      "installerUrl": "https://raw.githubusercontent.com/shekhar-byte/shekhmishra-test-repo/main/UI-TEST-ONLY-NO-INSTALLER-0.15.20-osx-arm64.dmg",
+      "sha256": "0000000000000000000000000000000000000000000000000000000000000000"
+    }
+  },
   "releaseNotesUrl": "",
-  "releaseNotesSummary": "NOTIFICATION-ONLY TEST: 0.15.20 is a synthetic version for testing the Stable update-available notification against an installed 0.15.19 app. It is not a published release. No installer URLs or hashes are supplied, so this manifest provides no installable update. No versions are revoked and the workspace schema remains unchanged.",
-  "releasedAt": "2026-10-14T16:22:20Z"
+  "releaseNotesSummary": "UI-ONLY TEST: 0.15.20 is a synthetic version, not a published or signed Stable release. The installer URL deliberately names a nonexistent test-repo artifact; the all-zero SHA256 is an invalid TEST sentinel, not an artifact checksum. These inert coordinates only exercise the normal Update Now and Not Now prompt. Do not click Update Now: download/install is not supported. No installer is published, no versions are revoked, and the workspace schema remains unchanged.",
+  "releasedAt": "2026-10-14T16:48:59Z"
 }

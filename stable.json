@@ -1,1 +1,10 @@
-
+{
+  "ring": "stable",
+  "latestVersion": "0.15.20",
+  "minimumVersion": "0.0.0",
+  "schemaVersion": 1,
+  "platforms": {},
+  "releaseNotesUrl": "",
+  "releaseNotesSummary": "NOTIFICATION-ONLY TEST: 0.15.20 is a synthetic version for testing the Stable update-available notification against an installed 0.15.19 app. It is not a published release. No installer URLs or hashes are supplied, so this manifest provides no installable update. No versions are revoked and the workspace schema remains unchanged.",
+  "releasedAt": "2026-10-14T16:22:20Z"
+}

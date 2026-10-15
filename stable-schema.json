@@ -1,0 +1,14 @@
+{
+  "ring": "stable",
+  "latestVersion": "0.15.20",
+  "minimumVersion": "0.0.0",
+  "schemaVersion": 2,
+  "platforms": {
+    "osx-arm64": {
+      "installerUrl": "https://raw.githubusercontent.com/shekhar-byte/shekhmishra-test-repo/main/UI-TEST-ONLY-NO-INSTALLER-0.15.20-osx-arm64.dmg",
+      "sha256": "0000000000000000000000000000000000000000000000000000000000000000"
+    }
+  },
+  "releaseNotesUrl": "",
+  "releaseNotesSummary": "SCHEMA-WARNING UI-ONLY TEST: this fixture advertises synthetic schema version 2 while the local test app remains at schema 1. It tests the schema-change warning without revocation; minimumVersion is 0.0.0. No actual schema migration, persisted-data change, or signed release is provided. Version 0.15.20 is synthetic. The installer URL deliberately points to a nonexistent test artifact and the all-zero SHA256 is an invalid TEST sentinel. No usable installer is published. Do not click Update Now: download/install is unsupported. This separate fixture does not change stable.json or stable-revoked.json."
+}
